@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationWebAPI", "NotificationWebAPI\NotificationWebAPI.csproj", "{0E4757A0-8BF8-49E1-81BF-5BA28CC9B463}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLayer", "ServiceLayer\ServiceLayer.csproj", "{69F3010D-AFD2-4F6D-A8D3-5A47D3B3C461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E4757A0-8BF8-49E1-81BF-5BA28CC9B463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E4757A0-8BF8-49E1-81BF-5BA28CC9B463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E4757A0-8BF8-49E1-81BF-5BA28CC9B463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E4757A0-8BF8-49E1-81BF-5BA28CC9B463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F3010D-AFD2-4F6D-A8D3-5A47D3B3C461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F3010D-AFD2-4F6D-A8D3-5A47D3B3C461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F3010D-AFD2-4F6D-A8D3-5A47D3B3C461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F3010D-AFD2-4F6D-A8D3-5A47D3B3C461}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
